@@ -1,0 +1,83 @@
+
+.bannerBackground{
+    
+    height: 620px;
+    flex-shrink: 0;
+    background: linear-gradient(90deg, rgba(5, 60, 79, 0.69) 8.83%, rgba(5, 60, 79, 0.00) 70.83%), url('https://s3-alpha-sig.figma.com/img/234f/f261/b9f215343a436a119263593291d5a50d?Expires=1706486400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XiVmyx-PfKpuz6Ghq3iftK~c7dovnS8fcaagc~AtRoDi7SBe16rzW4-rGGOSHg8MY6McCEdvPzQwfI9YL3MfeU5Ptw0GXRbIfTYkN2pJCu8m0JGKc1zWxxq~HUY7337jPdQ5ABO6dt9WJJxk4wDDY38tPTzFviBQEA3qO3ZlTljhk2u-nDN-cFVBIBmSBvE7VStLFGNEMbLARiBurHayF0S18ltUybjd58DzRZtrEiqvagVhAF4cLTTc9qTMum8UYI6ZYSB-pdN1iRq4V~b9F4SOtt3NWjwB6-7eVGYyWE66pmss~VRmN1bw3Mla7nhKRZFPZdU1lxXfOLOd7AA9Ww__'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.homeHeading{
+    color: #FFF;
+font-family: Marcellus;
+font-size: 54px;
+font-style: normal;
+line-height: 64px; /* 108.108% */
+width: 600px;
+height: 190px;
+
+}
+.homePara{
+    color: #FFF;
+
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+line-height: 26px; /* 180% */
+letter-spacing: 0.6px;
+width: 500px;
+height: 86px;
+padding-left: 36px;
+
+}
+.ourPackagesButton{
+    width: 210px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 100px;
+background: #008FC7;
+}
+.ourServicesButton{
+    width: 210px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 100px;
+border: 1px solid #FFF;
+background: rgba(255, 255, 255, 0.10);
+backdrop-filter: blur(2.5px);
+}
+.Homebuttons{
+   padding-left: 36px;
+    
+}
+.ourPackagesSpan{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+}
+.zeroToSixSpan{
+    color: #5593A7;
+font-family: Marcellus;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+letter-spacing: 0.5px;
+}
+.SixSpan{
+    color: #5593A7;
+font-family: Marcellus;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 3px;
+text-transform: capitalize;
+}

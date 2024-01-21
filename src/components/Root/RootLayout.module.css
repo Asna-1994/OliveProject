@@ -1,0 +1,106 @@
+/*Top header*/
+.headerDiv{
+  
+   
+    flex-shrink: 0;
+    background-color: #0471A1;
+  }
+  
+  .FirstHeaderDiv{
+   padding-left: 82px;
+  }
+  .mailId{
+    color: #FFF;
+ /* leading-trim: both;
+  text-edge: cap;*/
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+  letter-spacing: 0.32px;
+  color: #FFFFFF;
+  
+  }
+  
+  .mailSVG{
+    width: 18px;
+  height: 15px;
+  flex-shrink: 0;
+  }
+  
+ .phoneNumberDiv{
+    
+    padding-right: 82px;
+  }
+  .phoneSVG{
+    width: 14px;
+height: 14px;
+flex-shrink: 0;
+fill: #FFF;
+  }
+  .twentyFourSpan{
+    color: #FFF;
+
+font-family: Montserrat;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 187.5% */
+letter-spacing: 0.48px;
+text-transform: capitalize;
+  }
+  .phoneNoSpan{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 17px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 142.857% */
+letter-spacing: 0.42px;
+text-transform: uppercase;
+  }
+
+
+  /*header2*/
+  .homeHeader{
+   width: 1200px;
+height: 70px;
+flex-shrink: 0;
+border-radius: 150px;
+background: #FFF;
+box-shadow: 0px 6px 45px 0px rgba(5, 60, 79, 0.06);
+
+}
+.oliveLogo{
+
+flex-shrink: 0;
+
+}
+.makeAppoinmentButton{
+
+flex-shrink: 0;
+border-radius: 150px;
+background: #008FC7;
+
+}
+.makeAppoinmentSpan{
+    color: #FFF;
+
+font-family: Montserrat;
+font-size: 10px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+text-transform: uppercase;
+}
+.makeAppoinmentsvg{
+    width: 18.502px;
+height: 12.023px;
+flex-shrink: 0;
+fill: #FFF;
+}
+.navLinks{
+    letter-spacing: 0.9px;
+}
